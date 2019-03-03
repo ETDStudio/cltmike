@@ -1,5 +1,4 @@
-# Startpage
-Personal New Tab/Start Page
+# CLT MIKE
 
-* Images sourced mainly from Reddit
+* Images from reddit
 * Color palette generation done by https://palettegenerator.com/
